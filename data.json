@@ -1,0 +1,163 @@
+[{
+    "id": 101,
+    "categoria": "Comedor",
+    "tipo": "Silla",
+    "nombre": "Napoles",
+    "precio": 6800,
+    "destacado": "no",
+    "foto": "./icons/silla-101.png"
+},
+{
+    "id": 102,
+    "categoria": "Comedor",
+    "tipo": "Silla",
+    "nombre": "Genova",
+    "precio": 5600,
+    "destacado": "no",
+    "foto": "./icons/silla-102.png"
+},
+{
+    "id": 103,
+    "categoria": "Comedor",
+    "tipo": "Silla",
+    "nombre": "Milan",
+    "precio": 4500,
+    "destacado": "si",
+    "foto": "./icons/silla-103.png"
+},
+{
+    "id": 104,
+    "categoria": "Comedor",
+    "tipo": "Juego de Comedor",
+    "nombre": "Salerno",
+    "precio": 37650,
+    "destacado": "no",
+    "foto": "./icons/juego-de-comedor-104.png"
+},
+{
+    "id": 105,
+    "categoria": "Comedor",
+    "tipo": "Aparador",
+    "nombre": "Catania",
+    "precio": 6890,
+    "destacado": "no",
+    "foto": "./icons/aparador-105.png"
+},
+{
+    "id": 106,
+    "categoria": "Comedor",
+    "tipo": "Aparador",
+    "nombre": "Sicilia",
+    "precio": 11560,
+    "destacado": "no",
+    "foto": "./icons/aparador-106.png"
+},
+{
+    "id": 201,
+    "categoria": "Living",
+    "tipo": "Sillon",
+    "nombre": "Tromso",
+    "precio": 45000,
+    "destacado": "no",
+    "foto": "./icons/sillon-201.png"
+},
+{
+    "id": 202,
+    "categoria": "Living",
+    "tipo": "Sillon",
+    "nombre": "Oslo",
+    "precio": 32000,
+    "destacado": "no",
+    "foto": "./icons/sillon-202.png"
+},
+{
+    "id": 203,
+    "categoria": "Living",
+    "tipo": "Sillon",
+    "nombre": "Bergen",
+    "precio": 52690,
+    "destacado": "no",
+    "foto": "./icons/sillon-203.png"
+},
+{
+    "id": 204,
+    "categoria": "Living",
+    "tipo": "Butaca",
+    "nombre": "Myre",
+    "precio": 7250,
+    "destacado": "si",
+    "foto": "./icons/butaca-204.png"
+},
+{
+    "id": 205,
+    "categoria": "Living",
+    "tipo": "Butaca",
+    "nombre": "Otta",
+    "precio": 6900,
+    "destacado": "no",
+    "foto": "./icons/butaca-205.png"
+},
+{
+    "id": 206,
+    "categoria": "Living",
+    "tipo": "Butaca",
+    "nombre": "Medja",
+    "precio": 10500,
+    "destacado": "si",
+    "foto": "./icons/butaca-206.png"
+},
+{
+    "id": 301,
+    "categoria": "Dormitorio",
+    "tipo": "Juego de sábanas",
+    "nombre": "Atenas",
+    "precio": 2960,
+    "destacado": "no",
+    "foto": "./icons/juego-de-sabanas-301.png"
+},
+{
+    "id": 302,
+    "categoria": "Dormitorio",
+    "tipo": "Juego de sábanas",
+    "nombre": "Mykonos",
+    "precio": 1850,
+    "destacado": "si",
+    "foto": "./icons/juego-de-sabanas-302.png"
+},
+{
+    "id": 303,
+    "categoria": "Dormitorio",
+    "tipo": "Juego de sábanas",
+    "nombre": "Santorini",
+    "precio": 1650,
+    "destacado": "no",
+    "foto": "./icons/juego-de-sabanas-303.png"
+},
+{
+    "id": 304,
+    "categoria": "Dormitorio",
+    "tipo": "Cómoda",
+    "nombre": "Ios",
+    "precio": 6700,
+    "destacado": "si",
+    "foto": "./icons/mueble-comoda-304.png"
+},
+{
+    "id": 305,
+    "categoria": "Dormitorio",
+    "tipo": "Mesa de luz",
+    "nombre": "Creta",
+    "precio": 3200,
+    "destacado": "si",
+    "foto": "./icons/mesita-luz-305.png"
+},
+{
+    "id": 306,
+    "categoria": "Dormitorio",
+    "tipo": "Edredón",
+    "nombre": "Naxos",
+    "precio": 3290,
+    "destacado": "no",
+    "foto": "./icons/acolchado-306.png"
+}
+]
